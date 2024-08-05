@@ -98,4 +98,7 @@ To start the application in colab, run the following command:
 
 ### Video
 Sample video is present in the **Generated output folder** in the repository <br>
-link - https://github.com/Shobhit043/GAN-project/blob/main/generated%20output%20images/generated_video.mp4
+
+#### GIF form
+![generated video converted to gif](https://github.com/Shobhit043/GAN-project/blob/main/generated%20output%20images/generated_video_in_gif_format.gif)<br>
+(this video seems static but there is slight movement in the river in the actual video)
