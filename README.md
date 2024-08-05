@@ -66,5 +66,5 @@ To start the application in colab, run the following command:
 
 **Follow run_app_in_colab.ipynb to get more clear instructions**
 
-## Some sample images
+## Some application images
 
