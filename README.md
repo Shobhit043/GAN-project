@@ -66,6 +66,8 @@ To start the application in colab, run the following command:
 
 **Follow run_app_in_colab.ipynb to get more clear instructions**
 
+**Note : It is essential to enable gpu for fast performance in local or in colab**
+
 ## Some application images
 
 ### English Prompt
