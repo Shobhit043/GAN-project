@@ -27,8 +27,8 @@ To install and run the project locally, follow these steps:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/multilingual-text-to-image-video-generator.git
-    cd multilingual-text-to-image-video-generator
+    https://github.com/Shobhit043/GAN-project.git
+    cd GAN-project
     ```
 
 2. **Create a virtual environment:**
@@ -44,7 +44,7 @@ To install and run the project locally, follow these steps:
     pip install -r requirements.txt
     ```
 
-4. **Install `localtunnel` globally (optional for web access):**
+4. **Install `localtunnel` globally (for web access or running web app in colab):**
 
     ```bash
     npm install -g localtunnel
@@ -57,6 +57,14 @@ To start the application, run the following command:
 ```bash
 streamlit run app.py
 ```
+
+To start the application in colab, run the following command:
+
+```bash
+!streamlit run app.py &  npx localtunnel --port 8501
+```
+
+**Follow run_app_in_colab.ipynb to get more clear instructions**
 
 ## Some sample images
 
