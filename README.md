@@ -74,28 +74,24 @@ To start the application in colab, run the following command:
 
 <figure>
   <img src="https://github.com/Shobhit043/GAN-project/blob/main/application%20images/ss-240802-20%3A45%3A34.png" alt="English prompt" />
-  <figcaption>English Prompt</figcaption>
 </figure>
 
 ### Hindi Prompt
 
 <figure>
   <img src="https://github.com/Shobhit043/GAN-project/blob/main/application%20images/ss-240802-20%3A46%3A25.png" alt="Hindi prompt" />
-  <figcaption>Hindi Prompt</figcaption>
 </figure>
 
 ### Japanese Prompt
 
 <figure>
   <img src="https://github.com/Shobhit043/GAN-project/blob/main/application%20images/ss-240802-20%3A53%3A44.png" alt="Japanese prompt">
-  <figcaption>japanese Prompt</figcaption>
 </figure>
 
 ## Sample Output of the model:
 ### Image
 <figure>
   <img src="https://github.com/Shobhit043/GAN-project/blob/main/generated%20output%20images/ss-240802-21%3A25%3A39.png" alt="sample output image" />
-  <figcaption>Video</figcaption>
 </figure>
 
 ### Video
